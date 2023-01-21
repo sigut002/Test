@@ -1,5 +1,14 @@
 Hier werden die git Commands gespeichert.
 
+
+neuer Text.
+
+Weitere Änderung 
+
+noch eine. 
+
+=======
 git credential reject => ENTER
 host=github.com => ENTER
 protocol=https => ENTER
+
